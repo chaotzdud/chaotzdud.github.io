@@ -496,4 +496,4 @@ Explanation:
 - **domain** - defines the Internet **domain name** (like w3schools.com)
 - **port** - defines the **port number** at the host (default for http is **80**)
 - **path** - defines a **path** at the server (If omitted: the root directory of the site)
-- **filename** - defines the name of a document or resource
+- **filename** - defines the name of a document or **resource**
